@@ -6,7 +6,7 @@ A Web app designed to help clients manage their inventory by providing a user-fr
 
 ## Features
 - Implemented Registration and Login Feauture.
-- Used Bcrypt to to properly secure and encrypt user information.
+- Used Bcrypt to properly secure and encrypt user information.
 - Practiced proper folder structure.
 - Planned,modeled and designed Enhanced Entity-Relationship diagrams to help gain a better understanding of the data and relationships involved in the system.  
 - Utilized MySQl Database to store and manage Data.
